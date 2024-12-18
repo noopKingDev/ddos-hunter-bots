@@ -1,0 +1,8 @@
+# Rust .gitignore  
+target/  
+**/*.rs.bk  
+**/*.rs.orig  
+Cargo.lock  
+/.idea/  
+/target/  
+**/*.log 
